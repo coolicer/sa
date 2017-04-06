@@ -1,4 +1,4 @@
-﻿export CC=gcc
+﻿CC=gcc
 export RM=rm -f
 export AR=ar cr
 export MV=mv
